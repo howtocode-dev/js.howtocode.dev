@@ -1,7 +1,7 @@
 ## ডাটা টাইপ
 জাভাস্ক্রিপ্ট ভ্যারিয়েবল অনেক রকমের ডাটা টাইপের ভ্যালু সংরক্ষণ করতে পারে। নাম্বার, স্ট্রিং, অ্যারে, অবজেক্ট তার মধ্যে অন্যতম। যেমন - 
 
-```
+```js
 var width = 20; // Number
 var name = "Brendan"; // String
 var languages = ['javascript', 'php', 'python']; // Array
@@ -10,17 +10,17 @@ var myObject = {name : "Brendan", inventor : "javascript"}; // Object
 
 কিছু এক্সিকিউশনঃ
 
-```
+```js
 var mixValue = 7 + "Brothers";
 ```
 এই স্টেটমেন্টের ডান পাশের প্রথম ভ্যালুটি একটি নাম্বার কিন্তু তার পরেই একটি স্ট্রিং আছে। এক্ষেত্রে জাভাস্ক্রিপ্ট যোগবোধক চিহ্ন বা অপারেটরকে দিয়ে ম্যাথমেটিক্যাল অপারেশন করবে না। 7 কেও সে স্ট্রিং হিসেবেই ধরে নিবে এবং Brothers এর সঙ্গে জুড়ে দিবে। এবং mixValue ভ্যারিয়েবলের আউটপুট হবে,
-```
+```js
 7Brothers
 ```
 
 এখন নিচের স্টেটমেন্টটি দেখুন,
 
-```
+```js
 var x = 90 + 9 + "Names";
 ```
 
@@ -35,7 +35,7 @@ var x = "Point" + 30 + 2;
 
 **ডাইনামিক টাইপ** সাপোর্টের কারনে একটি ভ্যারিয়েবল এক এক বার এক এক টাইপের ডাটা সংরক্ষণ করতে পারে। যেমন,
 
-```
+```js
 var x; // x is undefined
 var x = 5; // Now x is a Number
 var x = "Jobs"; // Now x is a String
@@ -54,21 +54,21 @@ var fullName = "Steve Jobs";
 
 মজার ব্যাপার হচ্ছে জাভাস্ক্রিপ্টে শুধুমাত্র এক ধরনের নাম্বার টাইপ আছে। ইন্টিজার বা ফ্লোটীং পয়েন্ট টাইপের নাম্বারকে নির্দ্বিধায় ষ্টোর করা যায় কোন রকম স্পেশাল টাইপ ডিক্লেয়ার ছাড়াই। যেমন,
 
-```
+```js
 var firstNumber = 10; // without decimal point
 var secondNumber = 3.14; // With decimal point
 ```
 
 এছাড়া খুব বেশি বড় বা খুব বেশি ছোট নাম্বারের সময় গণিতের এক্সপনেনশিয়াল চিহ্ন ব্যবহার করা যায়। অর্থাৎ,
 
-```
+```js
 var x = 15e5; // Actually 1500000
 var y = 15e-5; // Actually 0.00015
 ```
 ### বুলিয়ান
 
 বুলিয়ান টাইপের ভ্যারিয়েবল শুধুমাত্র দুই ধরনের ডাটা ষ্টোর করতে পারে। true অথবা false. 
-```
+```js
 var isHuman = true;
 var isDead = false;
 ```
@@ -77,7 +77,7 @@ var isDead = false;
 
 দুইটি স্কয়ার ব্র্যাকেটের মাধ্যমে একটি অ্যারে গঠন করা হয় যার মধ্যে এর এলিমেন্ট গুলো কমা দিয়ে আলাদা করা থাকে। অ্যারে হচ্ছে কিছু নির্দিষ্ট ডাটাকে সিকোয়েন্স অনুযায়ী সাজিয়ে মেমোরিতে ষ্টোর করার একটা উপায়। উদাহরণ,
 
-```
+```js
 var languages = ['javascript', 'php', 'python'];
 ```
 
@@ -87,7 +87,7 @@ var languages = ['javascript', 'php', 'python'];
 
 এক জোড়া কার্লি ব্রাকেট ব্যবহার করে অবজেক্ট তৈরি করা যায়। অবজেক্টের প্রপার্টি গুলোকে এর মধ্যে name:value স্টাইলে জোড়ায় জোড়ায় লেখা হয় এবং এক জোড়াকে আরেক জোড়া থেকে কমা দিয়ে আলাদা করা হয়। যেমন নিচে একটি person অবজেক্ট যার কিছু প্রপার্টি আছে,
 
-```
+```js
 var person = {firstName:"Abul", lastName:"Maal", age:65, eyeColor:"black"};
 ```
 
@@ -98,7 +98,7 @@ var person = {firstName:"Abul", lastName:"Maal", age:65, eyeColor:"black"};
 
 জাভাস্ক্রিপ্টে কোন একটি ভ্যারিয়েবলের কোন ভ্যালু না থাকলে তার মধ্যে থাকে **undefined**. কোন ভ্যারিয়েবলকে এম্পটি বা খালি করার জন্যও এই undefined কে ব্যবহার করা যেতে পারে। যেমন, 
 
-```
+```js
 var name = "Abul"; // Has value Abul
 name = undefined; // Now name is empty
 ```
@@ -108,7 +108,7 @@ name = undefined; // Now name is empty
 ## null এবং undefiend
 একটু দ্বিধা দ্বন্দ্বের ব্যাপার :P
 
-```
+```js
 typeof undefined             // undefined
 typeof null                  // object
 null === undefined           // false
