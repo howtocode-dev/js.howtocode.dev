@@ -1,0 +1,15 @@
+# ব্যাসিক জাভাস্ক্রিপ্ট প্রোগ্রামিং
+এই চ্যাপ্টারে আমরা জাভাস্ক্রিপ্ট প্রোগ্রামিং এর খুবই ব্যাসিক বিষয় গুলো নিয়ে আলোচনা করবো। আমাদের আলোচনার বিষয় তালিকা নিচে দেয়া হলঃ
+
+১। গ্রামার অ্যান্ড টাইপ ঃ
+  - [ব্যাসিক syntax অ্যান্ড টাইপ](basic-syntax-and-comments.md)
+  - [ডিক্লেয়ার করা](declarations.md)
+  - [ভ্যারিয়েবল স্কোপ](variable-scope.md)
+  - [ভ্যারিয়েবল হোইস্টিং](variable-hoisting.md)
+  - [ডাটা স্ট্রাকচার এন্ড টাইপস](data-structures-and-type-literals.md)
+
+২। 
+
+
+
+সুত্রঃ [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
