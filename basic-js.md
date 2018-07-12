@@ -8,7 +8,10 @@
   - [ভ্যারিয়েবল হোইস্টিং](variable-hoisting.md)
   - [ডাটা স্ট্রাকচার এন্ড টাইপস](data-structures-and-type-literals.md)
 
-২। 
+২। কন্ট্রোল ফ্ল
+  - [if...else](if-else.md)
+  - [switch](switch.md)
+  - [try/catch/throw](try-catch-throw.md)
 
 
 
