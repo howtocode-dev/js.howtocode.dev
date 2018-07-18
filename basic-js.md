@@ -28,4 +28,12 @@
   - [ফাংশন এর স্কোপ](function-scope.md)
   - [ক্লোজার (Closures)](closures.md)
 
+৫। এক্সপ্রেশন অ্যান্ড অপারেটরসঃ
+  - [অপারেটর কি?](what-is-oparetor.md)
+  - [অপারেটর এর প্রকারভেদঃ](types-of-operators.md)
+  - [অ্যাসাইনমেন্ত অ্যান্ড কম্পারিজন অপারেটর](assignment-and-comparisons.md)
+  - [গাণিতিক অপারেটর](arithmetic-operators.md)
+  - [বিটওয়াইজ অ্যান্ড লজিকাল অপারেটর](bitwise-and-logical-operators.md)
+  - [Conditional টারনারি অপারেটর](conditional-ternary-operator.md)
+
 সুত্রঃ [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
