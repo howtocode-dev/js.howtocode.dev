@@ -36,20 +36,28 @@
   - [বিটওয়াইজ অ্যান্ড লজিকাল অপারেটর](bitwise-and-logical-operators.md)
   - [Conditional টারনারি অপারেটর](conditional-ternary-operator.md)
 
-৬। নাম্বার ও ডেটঃ
+৬। অ্যারেঃ
+  - [অ্যারে কি?](what-is-array.md)
+  - [অ্যারে এর প্রকারভেদঃ](types-of-array.md)
+  - [অ্যারে অপারেশন push()](array-push.md)
+  - [অ্যারে অপারেশন pop()](array-pop.md)
+  - [অ্যারে অপারেশন shift()](array-shift.md)
+  - [অ্যারে অপারেশন unshift()](array-unshift.md)
+
+৮। নাম্বার ও ডেটঃ
  - [Number literals](number-literals.md)
  - [Number অবজেক্ট](number-object.md)
  - [ম্যাথ অবজেক্ট](math-object.md)
  - [Date অবজেক্ট](date-object.md)
 
-৭। স্ট্রিং নিয়ে খেলাধুলাঃ
+৯। স্ট্রিং নিয়ে খেলাধুলাঃ
   - [স্ট্রিং লিটারালস](string-literals.md)
   - [স্ট্রিং অবজেক্ট](string-object.md)
   - [টেম্পলেট লিটারালস](template-literals.md)
   - [স্ট্রিং মানিপুলেশন](string-manipulations.md)
   - [স্ট্রিং জোড়াদেয়া](string-concatenation.md)
 
-৮। রেগুলার এক্সপ্রেশনঃ
+১০। রেগুলার এক্সপ্রেশনঃ
   - [রেগুলার এক্সপ্রেশন কি](what-is-regular-expression.md)
   - [বাবহারিক জীবনে রেগুলার এক্সপ্রেশন এর ব্যবহার](usage-of-regular-expressions.md)
   - [বহুল বাবহ্রিত রেগুলার এক্সপ্রেশন সমুহঃ](popular-regular-expressions.md)
