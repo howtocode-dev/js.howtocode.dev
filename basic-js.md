@@ -42,4 +42,16 @@
  - [ম্যাথ অবজেক্ট](math-object.md)
  - [Date অবজেক্ট](date-object.md)
 
+৭। স্ট্রিং নিয়ে খেলাধুলাঃ
+  - [স্ট্রিং লিটারালস](string-literals.md)
+  - [স্ট্রিং অবজেক্ট](string-object.md)
+  - [টেম্পলেট লিটারালস](template-literals.md)
+  - [স্ট্রিং মানিপুলেশন](string-manipulations.md)
+  - [স্ট্রিং জোড়াদেয়া](string-concatenation.md)
+
+৮। রেগুলার এক্সপ্রেশনঃ
+  - [রেগুলার এক্সপ্রেশন কি](what-is-regular-expression.md)
+  - [বাবহারিক জীবনে রেগুলার এক্সপ্রেশন এর ব্যবহার](usage-of-regular-expressions.md)
+  - [বহুল বাবহ্রিত রেগুলার এক্সপ্রেশন সমুহঃ](popular-regular-expressions.md)
+
 সুত্রঃ [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
