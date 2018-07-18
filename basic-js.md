@@ -36,4 +36,10 @@
   - [বিটওয়াইজ অ্যান্ড লজিকাল অপারেটর](bitwise-and-logical-operators.md)
   - [Conditional টারনারি অপারেটর](conditional-ternary-operator.md)
 
+৬। নাম্বার ও ডেটঃ
+ - [Number literals](number-literals.md)
+ - [Number অবজেক্ট](number-object.md)
+ - [ম্যাথ অবজেক্ট](math-object.md)
+ - [Date অবজেক্ট](date-object.md)
+
 সুত্রঃ [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
