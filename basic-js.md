@@ -21,4 +21,11 @@
   - [for..in](for-in.md)
   - [for..of](for-of.md)
 
+৪। ফাংশনঃ
+  - [ফাংশন ডিফাইন করা](defining-functions.md)
+  - [ফাংশন কে কল করা](calling-functions.md)
+  - [এর আর্গুমেন্টস ও প্যারামিটার](arguments-and-parameters.md)
+  - [ফাংশন এর স্কোপ](function-scope.md)
+  - [ক্লোজার (Closures)](closures.md)
+
 সুত্রঃ [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
