@@ -44,11 +44,19 @@
   - [অ্যারে অপারেশন shift()](array-shift.md)
   - [অ্যারে অপারেশন unshift()](array-unshift.md)
 
+৭। অবজেক্ট ঃ
+  - [অবজেক্ট কি](what-is-object.md)
+  - [অবজেক্ট এর প্রোপার্টি](object-property.md)
+  - [মিউটাবিলিটি](mutability.md)
+  - [অবজেক্ট এর প্রোপার্টি অ্যাড করা](add-object-property.md)
+  - [অবজেক্ট এর প্রোপার্টি ডিলিট করা](delete-object-property.md)
+  - [অবজেক্ট এর মেথড ডিফাইন করা](methods-in-object.md)
+
 ৮। নাম্বার ও ডেটঃ
- - [Number literals](number-literals.md)
- - [Number অবজেক্ট](number-object.md)
- - [ম্যাথ অবজেক্ট](math-object.md)
- - [Date অবজেক্ট](date-object.md)
+  - [Number literals](number-literals.md)
+  - [Number অবজেক্ট](number-object.md)
+  - [ম্যাথ অবজেক্ট](math-object.md)
+  - [Date অবজেক্ট](date-object.md)
 
 ৯। স্ট্রিং নিয়ে খেলাধুলাঃ
   - [স্ট্রিং লিটারালস](string-literals.md)
