@@ -1,5 +1,3 @@
-# জাভাস্ক্রিপ্ট  
-
 <iframe src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2Fhowtocode.com.bd%2F&width=450&layout=standard&action=like&size=small&show_faces=true&share=true&height=80&appId=353725671441956" width="450" height="80" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>  
 
 **কোর্স পরিচালনায়**   
@@ -9,7 +7,6 @@
 (প্রথম ৫ জন)  
 <iframe scrolling="auto" frameborder="0" style="border:none; overflow:hidden; height:115px; width:100%; margin-left: 15;" allowTransparency="true" src="https://nuhil.github.io/api/contributions.html?repo=js"></iframe>
 
-**সংক্ষেপ**  
 জাভাস্ক্রিপ্ট বা সংক্ষেপে JS হচ্ছে first-class ফাংশন এর সমন্বয়ে গঠিত একটি লাইট ওয়েট, ইন্টারপ্রেটেড (কম্পাইল করার প্রয়োজন নেই) প্রোগ্রামিং ভাষা। 
 
 অনেকেই মনে করে জাভাস্ক্রিপ্টের কাজ শুধুমাত্র ওয়েবপেজের ফর্ম ভ্যালিডেশন আর টুকটাক কিছু ডোম ম্যানিপুলেশনের মধ্যেই সীমাবদ্ধ। আর এটা একটা ক্লায়েন্ট সাইড ল্যাঙ্গুয়েজ অর্থাৎ শুধু ব্রাউজারের মধ্যেই রান করে পারে। কিন্তু ধারনা শতভাগ ভুল। সার্ভার সাইড ও নেটওয়ার্ক প্রোগ্রামিং, মোবাইল ও ডেস্কটপ অ্যাপ ডেভেলপমেন্ট, গেইম ডেভেলপমেন্ট থেকে শুরু করে ইন্টারনেট অব থিংস, মেশিন লার্নিং এ গিয়েও দেখা মিলবে এই জাভাস্ক্রিপ্ট এর। আর এটাকে ইন্টারমেডিয়েট ল্যাঙ্গুয়েজ ধরে এর উপর তৈরি হয়েছে বেশ কিছু সাব ল্যাঙ্গুয়েজ যেমন কফিস্ক্রিপ্ট, [TypeScript](https://www.typescriptlang.org/) ইত্যাদি। 
